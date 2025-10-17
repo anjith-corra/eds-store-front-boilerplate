@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/anjith-corra/eds-store-front-boilerplate/
+    type: markup
+
+folders:
+  /products/: /products/default
